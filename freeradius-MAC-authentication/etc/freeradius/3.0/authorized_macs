@@ -1,4 +1,36 @@
+#######################MAC of the test Machine##########################################################
 14-0E-3C-00-FF-22
         Reply-Message = "Device with MAC Address %{Calling-Station-Id} authorized for network access"
+##########################MACs of the establishment Machines #############################################
 #c2-91-33-d0-99-41
-
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
+XX-XX-XX-XX-XX-XX
